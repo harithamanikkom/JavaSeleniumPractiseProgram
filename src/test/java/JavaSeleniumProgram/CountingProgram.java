@@ -13,7 +13,7 @@ public class CountingProgram {
 	public static void main(String[] args) {
 
 		
-String name="My name is Haritha @233%";
+String name="$######Haritha Giraffe 1234555656";
 System.out.println(name.length());//gets the length of the String
 char c[]=name.toCharArray();//converts the String into character array
 System.out.println(Arrays.toString(c));//converts char array c  to readable string format
