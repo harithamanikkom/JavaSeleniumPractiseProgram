@@ -21,6 +21,7 @@ public class SumAvgofnumber {
 		System.out.println("sum is :"+sum);
 		
 		avg=sum/number.length;
+		System.out.println(number.length);
 		System.out.println("Average is "+avg);
 
 	}
