@@ -11,6 +11,7 @@ public class BrokenImageDemoqa2 {
 
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
+        driver.manage().window().maximize();
         driver.get("https://demoqa.com/broken");
 
         List<WebElement> images = driver.findElements(By.tagName("img"));
