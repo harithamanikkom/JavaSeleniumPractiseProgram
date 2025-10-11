@@ -67,5 +67,10 @@
 			<version>1.18.38</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.playwright.test</groupId>
+			<artifactId>PlaywrightJavaProject</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 </project>
